@@ -2,6 +2,10 @@
 
 An end-to-end **dbt (data build tool)** project that transforms raw Netflix/MovieLens-style data into clean, tested, and well-documented analytics-ready models on **Snowflake**.
 
+------------------------------------------------------------------------
+![Workflow Diagram](docs/dbt_netflix_workflow.png)
+------------------------------------------------------------------------
+
 ## 📌 Overview
 
 This project follows a layered dbt architecture:
@@ -95,3 +99,9 @@ This project includes:
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+------------------------------------------------------------------------
+
+## 👤 Author
+
+**Azeem** --- [@Azeem8541](https://github.com/Azeem8541)
